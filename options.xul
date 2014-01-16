@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <setting data-jetpack-id="jid1-dKWwamYXeaMhfQ" pref="extensions.jid1-dKWwamYXeaMhfQ.xbmcip" pref-name="xbmcip" title="NMT IP" type="string">
+    The IPv4 address of the device NMT runs on
+  </setting>
+  <setting data-jetpack-id="jid1-dKWwamYXeaMhfQ" pref="extensions.jid1-dKWwamYXeaMhfQ.xbmcport" pref-name="xbmcport" title="Port" type="string">
+    The port NMT is listening on (default: 6357)
+  </setting>
+</vbox>

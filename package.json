@@ -1,9 +1,9 @@
 {
   "name": "envianmt",
-  "title": "envianmt",
+  "title": "Sent to NMT",
   "id": "jid1-dKWwamYXeaMhfQ",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "This addon allows you to send links of videos, photos or music to NMT Popcorn",
+  "author": "miguellopes",
   "license": "MPL 2.0",
   "version": "0.1"
 }
