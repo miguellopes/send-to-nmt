@@ -5,5 +5,20 @@
   "description": "This addon allows you to send links of videos, photos or music to NMT Popcorn",
   "author": "miguellopes",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.1",
+  "optionsType": "2",
+  "preferences": [{
+        "name": "xbmcip",
+        "title": "IP",
+        "description": "IP of NMT",
+        "type": "string",
+        "value": ""
+    },
+    {
+        "description": "Port",
+        "name": "xbmcport",
+        "type": "integer",
+        "value": 6357,
+        "title": "NMT Port"
+    }]
 }
