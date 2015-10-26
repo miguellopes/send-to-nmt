@@ -1,3 +1,3 @@
-This is a modified version of "Send to XBMC" plugin for Firefox, to send videos, photos and music links/streams to NMT Popcorn A-110.
+This is a modified version of "Send to XBMC" plugin for Firefox, that allows the user to send videos on youtube directly to NMT Popcorn Time.
 
-It may work on other models but there weren't tests made to ensure that.
+This was only tested with the A110 model it may work on other models but there weren't any tests made to ensure that.
